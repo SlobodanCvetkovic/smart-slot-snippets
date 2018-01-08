@@ -1,0 +1,13 @@
+{
+  "uuid": "033b0c15-5e86-4122-91b9-ebc7652680f4",
+  "name": "image",
+  "description": "Sets image property for a component",
+  "extraSearchTerms": [],
+  "tags": [
+    "sprite"
+  ],
+  "code": "\"image\": ${cursor},",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

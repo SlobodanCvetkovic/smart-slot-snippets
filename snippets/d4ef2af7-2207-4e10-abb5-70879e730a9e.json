@@ -1,0 +1,13 @@
+{
+  "uuid": "d4ef2af7-2207-4e10-abb5-70879e730a9e",
+  "name": "textures",
+  "description": "Sets textures property for a component",
+  "extraSearchTerms": [],
+  "tags": [
+    "sprite"
+  ],
+  "code": "\"textures\": ${cursor},",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}
