@@ -1,0 +1,11 @@
+{
+  "uuid": "2908240f-002a-46c7-bee5-d5b055e49320",
+  "name": "visible",
+  "description": "Sets visible property for a container",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\"visible\": ${cursor},",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}
