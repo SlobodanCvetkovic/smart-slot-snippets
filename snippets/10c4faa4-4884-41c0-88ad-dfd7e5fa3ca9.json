@@ -1,0 +1,11 @@
+{
+  "uuid": "10c4faa4-4884-41c0-88ad-dfd7e5fa3ca9",
+  "name": "opaque",
+  "description": "Sets opaque property for a component",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\"opaque\": ${cursor},",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

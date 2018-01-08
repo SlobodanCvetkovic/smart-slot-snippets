@@ -1,0 +1,11 @@
+{
+  "uuid": "6984cea4-6fad-45d2-a633-4d5ee1b8580f",
+  "name": "animation",
+  "description": "Sets animation property for a component",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\"animation\": [${cursor}]",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

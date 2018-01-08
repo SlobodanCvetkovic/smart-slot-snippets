@@ -1,0 +1,11 @@
+{
+  "uuid": "7b5555b1-8345-4991-9293-8f0b50880c84",
+  "name": "alpha",
+  "description": "Sets alpha property for a component",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\"alpha\": ${cursor},",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

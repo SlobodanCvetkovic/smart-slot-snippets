@@ -1,0 +1,11 @@
+{
+  "uuid": "27868d58-0ea3-4599-be12-7de1de7603df",
+  "name": "x",
+  "description": "Sets x property for a component",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\"x\": ${cursor},",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

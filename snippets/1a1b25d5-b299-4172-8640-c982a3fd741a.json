@@ -1,0 +1,11 @@
+{
+  "uuid": "1a1b25d5-b299-4172-8640-c982a3fd741a",
+  "name": "children",
+  "description": "Sets children property for a component",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\"children\": [${cursor}]",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

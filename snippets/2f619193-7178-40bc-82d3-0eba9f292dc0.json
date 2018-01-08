@@ -1,0 +1,11 @@
+{
+  "uuid": "2f619193-7178-40bc-82d3-0eba9f292dc0",
+  "name": "allowOverrides",
+  "description": "Sets allowOverrides property for a component",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\"allowOverrides\": ${cursor},",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

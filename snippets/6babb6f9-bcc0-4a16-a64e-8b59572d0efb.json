@@ -1,0 +1,11 @@
+{
+  "uuid": "6babb6f9-bcc0-4a16-a64e-8b59572d0efb",
+  "name": "rotation",
+  "description": "Sets rotation property for a component",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\"rotation\": ${cursor},",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

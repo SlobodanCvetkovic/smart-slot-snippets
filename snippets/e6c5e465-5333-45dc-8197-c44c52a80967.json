@@ -1,0 +1,11 @@
+{
+  "uuid": "e6c5e465-5333-45dc-8197-c44c52a80967",
+  "name": "scale",
+  "description": "Sets scale property for a component",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\"scale\": ${cursor},",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}
