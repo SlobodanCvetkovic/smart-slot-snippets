@@ -1,0 +1,13 @@
+{
+  "uuid": "034eb9ec-2069-4449-bb4c-b270a7b0e338",
+  "name": "interactionWidth",
+  "description": "Sets interactionWidth property for animatedButton component",
+  "extraSearchTerms": [],
+  "tags": [
+    "animatedButton"
+  ],
+  "code": "\"interactionWidth\": ${cursor},",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

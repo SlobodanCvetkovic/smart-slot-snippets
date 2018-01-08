@@ -3,7 +3,9 @@
   "name": "allowOverrides",
   "description": "Sets allowOverrides property for a component",
   "extraSearchTerms": [],
-  "tags": [],
+  "tags": [
+    "container"
+  ],
   "code": "\"allowOverrides\": ${cursor},",
   "location": "GENERIC_FILE",
   "filenameRestrictions": [],

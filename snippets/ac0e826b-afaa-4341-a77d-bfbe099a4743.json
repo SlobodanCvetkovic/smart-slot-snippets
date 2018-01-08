@@ -1,0 +1,13 @@
+{
+  "uuid": "ac0e826b-afaa-4341-a77d-bfbe099a4743",
+  "name": "interactionHeight",
+  "description": "Sets interactionHeight property for animatedButton component",
+  "extraSearchTerms": [],
+  "tags": [
+    "animatedButton"
+  ],
+  "code": "\"interactionHeight\": ${cursor},",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}
