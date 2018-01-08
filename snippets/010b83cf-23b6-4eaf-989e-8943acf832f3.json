@@ -1,0 +1,11 @@
+{
+  "uuid": "010b83cf-23b6-4eaf-989e-8943acf832f3",
+  "name": "loop animation",
+  "description": "Creates json object that represents loop animation",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "{\r\n  \"type\": \"Animation\",\r\n  \"variant\": \"Loop\",\r\n  \"repeat\": 1,\r\n  \"children\": [${cursor}]\r\n}",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "f42ca6a2-86cf-4a83-bba4-195da1bdb39b",
+  "name": "tween animation",
+  "description": "Creates json object that represents tween animation",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "{\r\n  \"type\": \"Animation\",\r\n  \"variant\": \"Tween\",\r\n  \"duration\": 0,\r\n  \"children\": [${cursor}]\r\n}",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

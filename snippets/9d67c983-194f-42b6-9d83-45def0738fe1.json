@@ -1,0 +1,11 @@
+{
+  "uuid": "9d67c983-194f-42b6-9d83-45def0738fe1",
+  "name": "group animation",
+  "description": "Creates json object that represents group animation",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "{\r\n  \"type\": \"Animation\",\r\n  \"variant\": \"Group\",\r\n  \"children\": [${cursor}]\r\n}",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

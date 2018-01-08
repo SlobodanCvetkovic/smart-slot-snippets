@@ -1,0 +1,11 @@
+{
+  "uuid": "4050e5c4-5163-4ac1-84f0-dccde5bfc199",
+  "name": "sequence animation",
+  "description": "Creates json object that represents sequence animation",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "{\r\n  \"type\": \"Animation\",\r\n  \"variant\": \"Sequence\",\r\n  \"children\": [${cursor}]\r\n}",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}
