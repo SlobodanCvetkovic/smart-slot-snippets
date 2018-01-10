@@ -1,0 +1,11 @@
+{
+  "uuid": "720e01b2-9e11-4bac-9cfd-671c795faf55",
+  "name": "layout container",
+  "description": "Creates json object that represents layout container",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "{\r\n\t\"type\": \"LayoutContainer\",\r\n\t\"align\": \"c\",\r\n\t\"fill\": \"R\",\r\n\t\"width\": \"1920px\",\r\n\t\"height\": \"1080px\"\r\n}",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

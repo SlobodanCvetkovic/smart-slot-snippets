@@ -1,0 +1,11 @@
+{
+  "uuid": "2e8169e6-abc1-4d0f-b763-64c47efa9121",
+  "name": "atlas",
+  "description": "Sets atlas property for a component",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\"atlas\": ${cursor},",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

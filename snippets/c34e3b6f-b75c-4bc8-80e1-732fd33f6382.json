@@ -1,0 +1,11 @@
+{
+  "uuid": "c34e3b6f-b75c-4bc8-80e1-732fd33f6382",
+  "name": "tween alpha",
+  "description": "Creates json objec that represents animation that tweens alpha property",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "{\r\n\t\"variant\": \"Tween\",\r\n\t\"duration\": 0.3,\r\n\t\"alpha\": ${cursor}\r\n}",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

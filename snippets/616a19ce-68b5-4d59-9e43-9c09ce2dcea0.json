@@ -1,0 +1,11 @@
+{
+  "uuid": "616a19ce-68b5-4d59-9e43-9c09ce2dcea0",
+  "name": "show",
+  "description": "Creates string that invokes show function",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\"call:show\"",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "9e8fd985-1d38-4c3e-a98a-593893783e03",
+  "name": "layer",
+  "description": "Sets layer property for a component",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\"layer\": ${cursor},",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "c70bfe77-f901-4bf8-b2f9-8256751f9f15",
+  "name": "symbol container",
+  "description": "Creates json object that represents empty symbol",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "{\r\n\t\"type\": \"SymbolContainer\",\r\n\t\"static\": {\r\n\t\t\"type\": \"Sprite\",\r\n\t\t\"atlas\":\"sym_static.json\",\r\n\t\t\"texture\": \u003cinsert-content\u003e\r\n\t},\r\n\t\"win\": {\r\n\t\t\"type\": \"Container\",\r\n\t\t\"placeholder\": \"WinSymbolPlaceholder\",\r\n\t\t\"placeholderZ\": 10,\r\n\t\t\"animation\": [{\r\n\t\t\t\"name\": \"winFull\",\r\n\t\t\t\"variant\": \"Group\",\r\n\t\t\t\"children\": [\"children\"]\r\n\t\t}],\r\n\t\t\"children\": [\u003cinsert-content\u003e]\r\n\t}\r\n}",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

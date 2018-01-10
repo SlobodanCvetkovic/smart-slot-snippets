@@ -1,0 +1,11 @@
+{
+  "uuid": "f0f1cf0a-caf1-4333-9488-d921a8b64925",
+  "name": "sprite texture",
+  "description": "Creates json object that represents a texture loaded from atlas file",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "{\r\n\t\"type\": \"Sprite\",\r\n\t\"atlas\": ${cursor},\r\n\t\"texture\": \u003cinsert-content\u003e\r\n}",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

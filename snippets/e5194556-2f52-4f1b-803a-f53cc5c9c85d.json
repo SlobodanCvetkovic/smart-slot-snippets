@@ -1,0 +1,11 @@
+{
+  "uuid": "e5194556-2f52-4f1b-803a-f53cc5c9c85d",
+  "name": "sprite image",
+  "description": "Creates json object that represents sprite that is loaded from an image file (does not require atlas)",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "{\r\n\t\"type\": \"Sprite\",\r\n\t\"image\": ${cursor}\r\n\r\n}",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

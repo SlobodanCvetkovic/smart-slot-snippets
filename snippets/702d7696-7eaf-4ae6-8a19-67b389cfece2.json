@@ -1,0 +1,11 @@
+{
+  "uuid": "702d7696-7eaf-4ae6-8a19-67b389cfece2",
+  "name": "hide",
+  "description": "Creates string that invokes hide function",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\"call:hide\"",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

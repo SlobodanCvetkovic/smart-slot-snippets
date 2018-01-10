@@ -1,0 +1,11 @@
+{
+  "uuid": "3cbe20e2-19cb-4360-9e55-12c782c449d8",
+  "name": "tween scale",
+  "description": "Creates json objec that represents animation that tweens scale property",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "{\r\n\t\"variant\":\"Tween\",\r\n\t\"duration\": 0.3,\r\n\t\"scale\": ${cursor}\r\n}",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}
