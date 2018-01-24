@@ -1,0 +1,11 @@
+{
+  "uuid": "32208127-f097-46a8-9cb3-2a302c890e81",
+  "name": "comment",
+  "description": "Generates php comment tags",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\u003c?php /* ${cursor} */?\u003e",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

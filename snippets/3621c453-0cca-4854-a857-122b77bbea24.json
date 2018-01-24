@@ -1,0 +1,13 @@
+{
+  "uuid": "3621c453-0cca-4854-a857-122b77bbea24",
+  "name": "rectangle",
+  "description": "Creates json object that represents graphic",
+  "extraSearchTerms": [],
+  "tags": [
+    "graphics"
+  ],
+  "code": "{\r\n\t\"type\": \"Graphics\",\r\n\t\"variant\": \"Rectangle\",\r\n\t\"width\": 1280,\r\n\t\"height\": 720,\r\n\t\"color\": \"#000000\",\r\n\t\"alpha\": 0.8\r\n}",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

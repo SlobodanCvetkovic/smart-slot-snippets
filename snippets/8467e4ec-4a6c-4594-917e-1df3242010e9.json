@@ -1,0 +1,11 @@
+{
+  "uuid": "8467e4ec-4a6c-4594-917e-1df3242010e9",
+  "name": "button",
+  "description": "Creates json object that represents button config",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "{\r\n\t\"type\": \"Button\",\r\n  \t\"textures\": [\"NORMAL.png\", \"HOVER.png\", \"DOWN.png\", \"DISABLED.png\"],\r\n\t\"onPress\": ${cursor}\r\n}",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

@@ -1,0 +1,13 @@
+{
+  "uuid": "7dc46a35-0c72-4a9b-a290-0a0209bdccf6",
+  "name": "MovieClip",
+  "description": "Creates json configuration that is used to create movie clip component",
+  "extraSearchTerms": [
+    "movieclip"
+  ],
+  "tags": [],
+  "code": "{\r\n\t\"type\": \"MovieClip\",\r\n\t\"sequence\": \u003cinsert-content\u003e,\r\n\t\"sequenceSize\": \u003cinsert-content\u003e,\r\n\t\"sequenceXSize\": \u003cinsert-content\u003e,\r\n\t\"sequenceYSize\": \u003cinsert-content\u003e\r\n}",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

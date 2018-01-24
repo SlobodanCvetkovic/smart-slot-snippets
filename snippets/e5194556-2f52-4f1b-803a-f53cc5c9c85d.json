@@ -4,7 +4,7 @@
   "description": "Creates json object that represents sprite that is loaded from an image file (does not require atlas)",
   "extraSearchTerms": [],
   "tags": [],
-  "code": "{\r\n\t\"type\": \"Sprite\",\r\n\t\"image\": ${cursor}\r\n\r\n}",
+  "code": "{\r\n\t\"type\": \"Sprite\",\r\n\t\"image\": ${cursor}\r\n}",
   "location": "GENERIC_FILE",
   "filenameRestrictions": [],
   "dependencies": []

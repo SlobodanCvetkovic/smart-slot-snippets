@@ -1,0 +1,11 @@
+{
+  "uuid": "6e9efe84-99e0-4c32-a4fb-10dc3e05c265",
+  "name": "container",
+  "description": "Creates json object that represents container component",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "{\r\n\t\"type\": \"Container\",\r\n\t\"children\": [${cursor}]\r\n}",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

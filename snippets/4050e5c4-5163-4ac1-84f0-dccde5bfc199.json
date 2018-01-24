@@ -4,7 +4,7 @@
   "description": "Creates json object that represents sequence animation",
   "extraSearchTerms": [],
   "tags": [],
-  "code": "{\r\n  \"type\": \"Animation\",\r\n  \"variant\": \"Sequence\",\r\n  \"children\": [${cursor}]\r\n}",
+  "code": "{\r\n  \"type\": \"Animation\",\r\n  \"name\": ${cursor},\r\n  \"variant\": \"Sequence\",\r\n  \"children\": []\r\n}",
   "location": "GENERIC_FILE",
   "filenameRestrictions": [],
   "dependencies": []

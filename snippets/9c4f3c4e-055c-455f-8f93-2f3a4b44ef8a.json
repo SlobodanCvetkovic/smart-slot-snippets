@@ -1,0 +1,11 @@
+{
+  "uuid": "9c4f3c4e-055c-455f-8f93-2f3a4b44ef8a",
+  "name": "type",
+  "description": "Creates json object that represents custom type",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "{\r\n\t\"type\": ${cursor}\r\n}",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

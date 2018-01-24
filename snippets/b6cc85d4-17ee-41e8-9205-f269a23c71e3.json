@@ -1,0 +1,11 @@
+{
+  "uuid": "b6cc85d4-17ee-41e8-9205-f269a23c71e3",
+  "name": "call",
+  "description": "Invokes a function by given name",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\"call:${cursor}\",",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "833ecb68-d139-49be-a75a-d3f9084aaf03",
+  "name": "alert",
+  "description": "Alerts the given text",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\"alert:${cursor}\",",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}
