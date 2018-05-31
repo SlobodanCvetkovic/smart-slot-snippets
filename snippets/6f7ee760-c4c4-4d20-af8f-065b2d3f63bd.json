@@ -1,0 +1,11 @@
+{
+  "uuid": "6f7ee760-c4c4-4d20-af8f-065b2d3f63bd",
+  "name": "cndVal",
+  "description": "Generates php tags with value condition funciton",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\u003c?php cnd(cndVal(\u0027\"${cursor}\"\u0027)); ?\u003e,",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

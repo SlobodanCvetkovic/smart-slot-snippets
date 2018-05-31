@@ -1,0 +1,13 @@
+{
+  "uuid": "7b16eb14-2480-4e0c-972d-b15ae3ff3ae0",
+  "name": "text",
+  "description": "Creates json object that represents text component\u0027s configuration.",
+  "extraSearchTerms": [
+    "Text"
+  ],
+  "tags": [],
+  "code": "{\r\n\t\"type\": \"Text\",\r\n\t\"text\": ${cursor}\r\n}",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "0fd7df2f-25d7-4136-82b5-d554a6d3ee65",
+  "name": "forEach",
+  "description": "angular for each function template",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "angular.forEach(${cursor}, function() {}, this);",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

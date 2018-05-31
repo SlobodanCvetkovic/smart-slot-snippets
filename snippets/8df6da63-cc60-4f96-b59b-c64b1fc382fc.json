@@ -1,0 +1,11 @@
+{
+  "uuid": "8df6da63-cc60-4f96-b59b-c64b1fc382fc",
+  "name": "createanimationtimeline",
+  "description": "shortcut",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "this.presentation.createAnimationTimeline(${cursor}, 0, false, true, null);",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}

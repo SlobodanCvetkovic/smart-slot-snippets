@@ -4,7 +4,7 @@
   "description": "Creates json objec that represents animation that tweens alpha property",
   "extraSearchTerms": [],
   "tags": [],
-  "code": "{\r\n\t\"variant\": \"Tween\",\r\n\t\"duration\": 0.3,\r\n\t\"alpha\": ${cursor}\r\n}",
+  "code": "{\r\n\t\"variant\": \"Tween\",\r\n\t\"name\": ${cursor},\r\n\t\"duration\": 0.3,\r\n\t\"alpha\": ${cursor}\r\n}",
   "location": "GENERIC_FILE",
   "filenameRestrictions": [],
   "dependencies": []
